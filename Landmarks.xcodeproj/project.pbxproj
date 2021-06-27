@@ -56,7 +56,6 @@
 				E38AB257268855B20077B1DE /* CircleImage.swift */,
 				E38AB264268864AC0077B1DE /* LandmarkRow.swift */,
 				E38AB266268866DC0077B1DE /* LandmarkList.swift */,
-				E38AB26A26886A2D0077B1DE /* New Group */,
 				E38AB268268868750077B1DE /* LandmarkDetail.swift */,
 				E38AB259268857570077B1DE /* MapView.swift */,
 			);
@@ -78,13 +77,6 @@
 				E38AB25B26885DCC0077B1DE /* landmarkData.json */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		E38AB26A26886A2D0077B1DE /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		E3EAF965268850AC00DA609E = {

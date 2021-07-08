@@ -21,6 +21,7 @@
 		E3A0B0D426896121002DE0B0 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0B0D326896121002DE0B0 /* BadgeSymbol.swift */; };
 		E3A0B0D6268965FF002DE0B0 /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0B0D5268965FF002DE0B0 /* RotatedBadgeSymbol.swift */; };
 		E3A0B0D8268966D2002DE0B0 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0B0D7268966D2002DE0B0 /* Badge.swift */; };
+		E3CDD57F26972F1900FD1EFB /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CDD57E26972F1900FD1EFB /* ProfileEditor.swift */; };
 		E3E667DD26942DB50090C9AC /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E667DC26942DB50090C9AC /* CategoryHome.swift */; };
 		E3E667E0269435030090C9AC /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E667DF269435030090C9AC /* CategoryRow.swift */; };
 		E3E667E2269436D90090C9AC /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E667E1269436D90090C9AC /* CategoryItem.swift */; };
@@ -55,6 +56,7 @@
 		E3A0B0D326896121002DE0B0 /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		E3A0B0D5268965FF002DE0B0 /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		E3A0B0D7268966D2002DE0B0 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		E3CDD57E26972F1900FD1EFB /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		E3E667DC26942DB50090C9AC /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		E3E667DF269435030090C9AC /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		E3E667E1269436D90090C9AC /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 			isa = PBXGroup;
 			children = (
 				E3E667E52695D5820090C9AC /* ProfileHost.swift */,
+				E3CDD57E26972F1900FD1EFB /* ProfileEditor.swift */,
 				E3E667E82695D62B0090C9AC /* ProfileSummary.swift */,
 			);
 			path = Profiles;
@@ -311,6 +314,7 @@
 				E3F2EDB62692E01A002FBD32 /* Hike.swift in Sources */,
 				E3A0B0D6268965FF002DE0B0 /* RotatedBadgeSymbol.swift in Sources */,
 				E3A0B0D426896121002DE0B0 /* BadgeSymbol.swift in Sources */,
+				E3CDD57F26972F1900FD1EFB /* ProfileEditor.swift in Sources */,
 				E38AB267268866DC0077B1DE /* LandmarkList.swift in Sources */,
 				E3F2EDBF2692E244002FBD32 /* HikeView.swift in Sources */,
 				E38AB269268868750077B1DE /* LandmarkDetail.swift in Sources */,

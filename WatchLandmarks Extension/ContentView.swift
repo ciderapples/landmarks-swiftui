@@ -1,9 +1,9 @@
-//
-//  ContentView.swift
-//  WatchLandmarks Extension
-//
-//  Created by Jacky Lao on 7/13/21.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+The content for the watchOS app.
+*/
 
 import SwiftUI
 
